@@ -1,13 +1,12 @@
-<h1 align="center">👋 Hello, I'm Dana Assad 👋</h1>
+<h1 align="center" style="font-family: 'Times New Roman', serif;">👋 Hello, I'm Dana Assad 👋</h1>
 
-<h3 align="center" style="color: #0096c7;">Computer Engineering Student</h3>
+<h3 align="center" style="color: #0096c7; font-weight: lighter; font-family: 'Times New Roman', serif;">Computer Engineering Student</h3>
 
-<p align="center" style="max-width: 600px; margin: auto; text-align: center;">
+<p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Times New Roman', serif;">
 I am a Computer Engineering student at Birzeit University, graduating in 2026. Passionate about technology,
 I am eager to develop my skills, gain hands-on experience, and expand my knowledge. With a strong drive to learn and adapt,
 I am motivated to contribute effectively in a professional setting while embracing new challenges that foster both personal and professional growth.
 </p>
-
 
 ## 🔧 My Skills  
 ### 👉 Programming Languages  
@@ -15,14 +14,12 @@ I am motivated to contribute effectively in a professional setting while embraci
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-%23800080.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-%23FF6600.svg?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
 
 ### 👉 Frontend Development  
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-%23F7DF1E.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android-%23009D54.svg?style=for-the-badge&logo=android&logoColor=white" />
 </p>
@@ -31,18 +28,16 @@ I am motivated to contribute effectively in a professional setting while embraci
 <p>
   <img src="https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Database%20Normalization-%232C8EBB.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-%23FF0000.svg?style=for-the-badge" />
 </p>
 
 ### 👉 Other Skills  
 <p>
-  <img src="https://img.shields.io/badge/Socket%20Programming-%23FF5733.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TCP/UDP-%233366CC.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maze%20Algorithms-%23000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-%23DC143C.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-%23000000.svg?style=for-the-badge&logo=openssl&logoColor=white" />
 </p>
+
 
 ### 👉 Software & Tools  
 <p>
@@ -55,8 +50,8 @@ I am motivated to contribute effectively in a professional setting while embraci
 </p>
 
 ## 🌐 Languages  
-* **Arabic**: Native  
-* **English**: Good   
+* Arabic: Native
+* English: Good   
 
 
 ## 🤝 Let's Connect  
