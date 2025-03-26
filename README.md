@@ -44,8 +44,8 @@ I am motivated to contribute effectively in a professional setting while embraci
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Keil_\u00b5Vision-0099cc" />
-  <img src="https://img.shields.io/badge/-PyCharm-green" />
+  <img src="https://img.shields.io/badge/-Keil_\u00b5Vision-0099cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PyCharm-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EBA_Playground-%2300A1B2.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
