@@ -2,14 +2,14 @@
 
 <h3 align="center" style="color: #0096c7; font-weight: lighter; font-family: 'Times New Roman', serif; font-size: 24px;">Computer Engineering Student</h3>
 
-<p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Times New Roman', serif; font-size: 18px;">
+<p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Times New Roman', serif; font-size: 14px;">
 I am a Computer Engineering student at Birzeit University, expecting to graduate in 2026. I am passionate about learning and developing my skills in the field of technology. I am eager to gain practical experience, enhance my knowledge, and contribute effectively in a professional environment. I am adaptable, motivated, and always open to new challenges that help me grow both personally and professionally.
 </p>
 
 <style>
   .skills-icons img {
-    width: 30px; /* قم بتعديل الرقم حسب الحجم المطلوب */
-    height: 30px; /* تأكد من أن الأبعاد متساوية */
+    width: 30px; 
+    height: 30px; 
   }
 </style>
 
