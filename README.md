@@ -53,9 +53,10 @@ I am motivated to contribute effectively in a professional setting while embraci
 * Arabic: Native
 * English: Good   
 
-##🤝 Let's Connect
-<img src="/api/placeholder/32/32" alt="Gmail" style="width: 32px; height: 32px; border-radius: 8px; background-color: #EA4335;" />
-<img src="/api/placeholder/32/32" alt="GitHub" style="width: 32px; height: 32px; border-radius: 8px; background-color: #181717;" />
-<img src="/api/placeholder/32/32" alt="LinkedIn" style="width: 32px; height: 32px; border-radius: 8px; background-color: #0077B5;" />
-<img src="/api/placeholder/32/32" alt="Phone" style="width: 32px; height: 32px; border-radius: 8px; background-color: #25D366;" />
-
+## 🤝 Let's Connect
+<p
+<img src="/api/placeholder/40/40" alt="Gmail" style="background-color: #D14836; border-radius: 10px; margin: 0 5px; padding: 5px;" />
+<img src="/api/placeholder/40/40" alt="GitHub" style="background-color: #181717; border-radius: 10px; margin: 0 5px; padding: 5px;" />
+<img src="/api/placeholder/40/40" alt="LinkedIn" style="background-color: #0077B5; border-radius: 10px; margin: 0 5px; padding: 5px;" />
+<img src="/api/placeholder/40/40" alt="Phone" style="background-color: #25D366; border-radius: 10px; margin: 0 5px; padding: 5px;" />
+</p>
