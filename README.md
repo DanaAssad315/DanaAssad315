@@ -1,13 +1,8 @@
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif; font-size: 36px;">👋 Hello, I'm Dana Assad 👋</h1>
 
-<h3 align="center" style="color: #0096c7; font-weight: lighter; font-family: 'Times New Roman', Times, serif; font-size: 24px;">Computer Engineering Student</h3>
-
 <p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Times New Roman', Times, serif; font-size: 18px;">
-I am a Computer Engineering student at Birzeit University, graduating in 2026. Passionate about technology,
-I am eager to develop my skills, gain hands-on experience, and expand my knowledge. With a strong drive to learn and adapt,
-I am motivated to contribute effectively in a professional setting while embracing new challenges that foster both personal and professional growth.
+I am a Computer Engineering student at Birzeit University, expecting to graduate in 2026. I am passionate about learning and developing my skills in the field of technology. I am eager to gain practical experience, enhance my knowledge, and contribute effectively in a professional environment. I am adaptable, motivated, and always open to new challenges that help me grow both personally and professionally.
 </p>
-
 
 ## 🔧 My Skills  
 ### 👉 Programming Languages  
@@ -15,7 +10,7 @@ I am motivated to contribute effectively in a professional setting while embraci
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-%23800080.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assembly-AS-%23800080.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SystemVerilog-%23FF6600.svg?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
 
@@ -27,7 +22,7 @@ I am motivated to contribute effectively in a professional setting while embraci
 
 ### 👉 Databases & Tools  
 <p class="skills-icons">
-  <img src="https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Database%20Normalization-%232C8EBB.svg?style=for-the-badge" />
 </p>
 
