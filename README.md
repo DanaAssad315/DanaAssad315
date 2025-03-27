@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: 'Times New Roman', Times, serif; font-size: 36px;">👋 Hello, I'm Dana Assad 👋</h1>
 
-<p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Times New Roman', Times, serif; font-size: 18px;">
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 40px; color: #4A90E2;"> Hello, I'm Dana Assad 👋</h1>
+<p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Arial', sans-serif; font-size: 16px;">
 I am a Computer Engineering student at Birzeit University, expecting to graduate in 2026. I am passionate about learning and developing my skills in the field of technology. I am eager to gain practical experience, enhance my knowledge, and contribute effectively in a professional environment. I am adaptable, motivated, and always open to new challenges that help me grow both personally and professionally.
 </p>
 
