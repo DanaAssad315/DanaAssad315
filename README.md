@@ -54,19 +54,6 @@ I am motivated to contribute effectively in a professional setting while embraci
 * English: Good   
 
 ## 🤝 Let's Connect  
-<style>
-  .contact-icons {
-    text-align: center; 
-  }
-  
-  .contact-icons img {
-    width: 30px; 
-    height: 30px; 
-    filter: brightness(1.3);
-    margin: 5px; 
-  }
-</style>
-
 <p class="contact-icons">
   <a href="mailto:dana.gassad03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
