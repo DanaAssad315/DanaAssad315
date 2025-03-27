@@ -10,6 +10,7 @@ I am a Computer Engineering student at Birzeit University, expecting to graduate
   .skills-icons img {
     width: 30px; 
     height: 30px; 
+    display: none; 
   }
 </style>
 
