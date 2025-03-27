@@ -53,10 +53,31 @@ I am motivated to contribute effectively in a professional setting while embraci
 * Arabic: Native
 * English: Good   
 
-## 🤝 Let's Connect
-<p
-<img src="/api/placeholder/40/40" alt="Gmail" style="background-color: #D14836; border-radius: 10px; margin: 0 5px; padding: 5px;" />
-<img src="/api/placeholder/40/40" alt="GitHub" style="background-color: #181717; border-radius: 10px; margin: 0 5px; padding: 5px;" />
-<img src="/api/placeholder/40/40" alt="LinkedIn" style="background-color: #0077B5; border-radius: 10px; margin: 0 5px; padding: 5px;" />
-<img src="/api/placeholder/40/40" alt="Phone" style="background-color: #25D366; border-radius: 10px; margin: 0 5px; padding: 5px;" />
+## 🤝 Let's Connect  
+<style>
+  .contact-icons {
+    text-align: center; 
+  }
+  
+  .contact-icons img {
+    width: 30px; 
+    height: 30px; 
+    filter: brightness(1.3);
+    margin: 5px; 
+  }
+</style>
+
+<p class="contact-icons">
+  <a href="mailto:dana.gassad03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DanaAssad315">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dana-assad-813106331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="tel:+970569153203">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
