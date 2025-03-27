@@ -53,25 +53,9 @@ I am motivated to contribute effectively in a professional setting while embraci
 * Arabic: Native
 * English: Good   
 
-## 🤝 Let's Connect  
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; align-items: center;">
-    <span style="font-size: 24px;">🤝</span>
-    <span style="font-size: 24px;"> Let's Connect</span>
-  </div>
-  <hr style="width: 80%; border: none; border-top: 1px solid #ccc; margin: 10px 0;">
-  <div>
-    <a href="mailto:dana.gassad03@gmail.com" style="margin: 0 10px;">
-      <img src="https://i.imgur.com/your_gmail_icon_url.png" alt="Gmail" style="width: 20px; height: 20px;"> Gmail
-    </a>
-    <a href="https://github.com/DanaAssad315" style="margin: 0 10px;">
-      <img src="https://i.imgur.com/your_github_icon_url.png" alt="GitHub" style="width: 20px; height: 20px;"> GitHub
-    </a>
-    <a href="https://www.linkedin.com/in/dana-assad-813106331/" style="margin: 0 10px;">
-      <img src="https://i.imgur.com/your_linkedin_icon_url.png" alt="LinkedIn" style="width: 20px; height: 20px;"> LinkedIn
-    </a>
-    <a href="tel:+970569153203" style="margin: 0 10px;">
-      <img src="https://i.imgur.com/your_phone_icon_url.png" alt="Phone" style="width: 20px; height: 20px;"> Phone
-    </a>
-  </div>
-</div>
+##🤝 Let's Connect
+<img src="/api/placeholder/32/32" alt="Gmail" style="width: 32px; height: 32px; border-radius: 8px; background-color: #EA4335;" />
+<img src="/api/placeholder/32/32" alt="GitHub" style="width: 32px; height: 32px; border-radius: 8px; background-color: #181717;" />
+<img src="/api/placeholder/32/32" alt="LinkedIn" style="width: 32px; height: 32px; border-radius: 8px; background-color: #0077B5;" />
+<img src="/api/placeholder/32/32" alt="Phone" style="width: 32px; height: 32px; border-radius: 8px; background-color: #25D366;" />
+
