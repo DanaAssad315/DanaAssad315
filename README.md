@@ -10,7 +10,7 @@ I am a Computer Engineering student at Birzeit University, expecting to graduate
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-AS-%23800080.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assembly-%23800080.svg?style=for-the-badge" alt="Assembly Language">
   <img src="https://img.shields.io/badge/SystemVerilog-%23FF6600.svg?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
 
@@ -23,7 +23,7 @@ I am a Computer Engineering student at Birzeit University, expecting to graduate
 ### 👉 Databases & Tools  
 <p class="skills-icons">
   <img src="https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Normalization-%232C8EBB.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Datasets%20Normalization-%232C8EBB.svg?style=for-the-badge" />
 </p>
 
 ### 👉 Other Skills  
@@ -39,9 +39,9 @@ I am a Computer Engineering student at Birzeit University, expecting to graduate
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Keil_\u00b5Vision-0099cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PyCharm-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EBA_Playground-%2300A1B2.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keil_\u00b5Vision-0099cc?style=for-the-badge&logo=keil&logoColor=white" alt="Keil µVision" />
+ <img src="https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+ <img src="https://img.shields.io/badge/EBA_Playground-%2300A1B2.svg?style=for-the-badge&logo=python&logoColor=white" alt="EBA Playground" />
 </p>
 
 ## 🌐 Languages  
