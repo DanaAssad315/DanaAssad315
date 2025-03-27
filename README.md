@@ -54,18 +54,17 @@ I am motivated to contribute effectively in a professional setting while embraci
 * English: Good   
 
 ## 🤝 Let's Connect  
-<p>
-  <a href="mailto:dana.gassad03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="mailto:dana.gassad03@gmail.com" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/your_gmail_icon_url.png" alt="Gmail" style="width: 50px; height: 50px; border-radius: 50%; background-color: #e0f2f7; padding: 10px;">
   </a>
-  <a href="https://github.com/DanaAssad315">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/DanaAssad315" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/your_github_icon_url.png" alt="GitHub" style="width: 50px; height: 50px; border-radius: 50%; background-color: #e0f2f7; padding: 10px;">
   </a>
-  <a href="https://www.linkedin.com/in/dana-assad-813106331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dana-assad-813106331/" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/your_linkedin_icon_url.png" alt="LinkedIn" style="width: 50px; height: 50px; border-radius: 50%; background-color: #e0f2f7; padding: 10px;">
   </a>
-  <a href="tel:+970569153203">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="tel:+970569153203" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/your_phone_icon_url.png" alt="Phone" style="width: 50px; height: 50px; border-radius: 50%; background-color: #e0f2f7; padding: 10px;">
   </a>
-</p>
-
+</div>
