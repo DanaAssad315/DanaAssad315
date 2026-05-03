@@ -4,7 +4,7 @@
 Computer Engineering graduate at Birzeit University (2026), specialized in AI & Machine Learning. I build practical intelligent systems — from NLP models and deep learning solutions to full-stack AI-powered applications. Passionate about turning data into real, working solutions.
 </p>
 
-## 🤖 AI & Machine Learning *(Main Focus)
+## 🤖 AI & Machine Learning 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -17,6 +17,7 @@ Computer Engineering graduate at Birzeit University (2026), specialized in AI & 
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Preprocessing-%232C8EBB.svg?style=for-the-badge" />
 </p>
+
 ## 🔧 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
