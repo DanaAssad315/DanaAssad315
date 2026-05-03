@@ -1,13 +1,10 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 40px; color: #4A90E2;">Hello, I'm Dana Assad 👋</h1>
 
 <p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Arial', sans-serif; font-size: 16px;">
-Computer Engineering student at Birzeit University (2026), specialized in AI & Machine Learning. I build practical intelligent systems — from NLP models and deep learning solutions to full-stack AI-powered applications. Passionate about turning data into real, working solutions.
+Computer Engineering graduate at Birzeit University (2026), specialized in AI & Machine Learning. I build practical intelligent systems — from NLP models and deep learning solutions to full-stack AI-powered applications. Passionate about turning data into real, working solutions.
 </p>
 
----
-
-## 🤖 AI & Machine Learning *(Main Focus)*
-
+## 🤖 AI & Machine Learning *(Main Focus)
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -20,9 +17,7 @@ Computer Engineering student at Birzeit University (2026), specialized in AI & M
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Preprocessing-%232C8EBB.svg?style=for-the-badge" />
 </p>
-
 ## 🔧 Programming Languages
-
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -32,7 +27,6 @@ Computer Engineering student at Birzeit University (2026), specialized in AI & M
 </p>
 
 ## 🌐 Web & Backend
-
 <p>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -42,7 +36,6 @@ Computer Engineering student at Birzeit University (2026), specialized in AI & M
 </p>
 
 ## 🗄️ Databases & Cloud
-
 <p>
   <img src="https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -50,7 +43,6 @@ Computer Engineering student at Birzeit University (2026), specialized in AI & M
 </p>
 
 ## 🛠️ Tools
-
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -61,8 +53,6 @@ Computer Engineering student at Birzeit University (2026), specialized in AI & M
   <img src="https://img.shields.io/badge/Keil_µVision-0099cc?style=for-the-badge&logo=keil&logoColor=white" />
   <img src="https://img.shields.io/badge/EBA_Playground-%2300A1B2.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -82,8 +72,6 @@ Machine learning model for classifying speaker ethnicity using KNN, SVM, and GMM
 Autonomous robot that navigates and solves mazes using sensors and pathfinding algorithms.  
 **Tech:** C · Arduino
 
----
-
 ## 🏆 Achievements
 
 - 🥇 Winner Contributor — INJAZ Palestine Best Product 2025
@@ -93,8 +81,8 @@ Autonomous robot that navigates and solves mazes using sensors and pathfinding a
 ---
 
 ## 🌐 Languages
-- Arabic: Native
-- English: Professional
+- Arabic
+- English
 
 ---
 
