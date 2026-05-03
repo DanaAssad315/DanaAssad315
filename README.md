@@ -1,59 +1,68 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 40px; color: #4A90E2;">Hello, I'm Dana Assad 👋</h1>
 
 <p align="center" style="max-width: 600px; margin: auto; text-align: center; font-family: 'Arial', sans-serif; font-size: 16px;">
-Computer Engineering graduate at Birzeit University (2026), specialized in AI & Machine Learning. I build practical intelligent systems — from NLP models and deep learning solutions to full-stack AI-powered applications. Passionate about turning data into real, working solutions.
+Computer Engineering graduate from Birzeit University, specialized in AI & Machine Learning. I build practical intelligent systems — from NLP models and deep learning solutions to full-stack AI-powered applications. Passionate about turning data into real, working solutions.
 </p>
 
+---
+
 ## 🤖 AI & Machine Learning 
+
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-%2300BCD4.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-%234B0082.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-%232C8EBB.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-B5D5C5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-C9B8D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-B8D4E8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-D4B8E0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-E8C9D4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F5D5B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-F5C6B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-B8C9F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-C5D8B5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-D8E8C5?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🔧 Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-%23800080.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SystemVerilog-%23FF6600.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-B8D4E8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F5D5B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-C9D8F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-E8D4C9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-D4E8D4?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🌐 Web & Backend
+
 <p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%23009D54.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-%23F7DF1E.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-B8EAF5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-D4C9F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-C5E8D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-C5E8C5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-F5EAB8?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🗄️ Databases & Cloud
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datasets%20Normalization-%232C8EBB.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-B8C9F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-B8D8F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datasets%20Normalization-D8F0E8?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🛠️ Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keil_µVision-0099cc?style=for-the-badge&logo=keil&logoColor=white" />
-  <img src="https://img.shields.io/badge/EBA_Playground-%2300A1B2.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F5C5B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-D4D4D4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-B8D4F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-C5E8C5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F5DDB8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-C5F5D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keil_µVision-D8D4F5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/EBA_Playground-E8F0D4?style=for-the-badge&logoColor=white" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -73,6 +82,8 @@ Machine learning model for classifying speaker ethnicity using KNN, SVM, and GMM
 Autonomous robot that navigates and solves mazes using sensors and pathfinding algorithms.  
 **Tech:** C · Arduino
 
+---
+
 ## 🏆 Achievements
 
 - 🥇 Winner Contributor — INJAZ Palestine Best Product 2025
@@ -82,8 +93,8 @@ Autonomous robot that navigates and solves mazes using sensors and pathfinding a
 ---
 
 ## 🌐 Languages
-- Arabic
-- English
+- Arabic: Native
+- English: Professional
 
 ---
 
@@ -91,15 +102,15 @@ Autonomous robot that navigates and solves mazes using sensors and pathfinding a
 
 <p>
   <a href="mailto:dana.gassad03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-F5B8B8?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/DanaAssad315">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-D4D4D4?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dana-assad-813106331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-B8D4F5?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.upwork.com/freelancers/~018029123c4d0752cf">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/Upwork-B5E8C5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
